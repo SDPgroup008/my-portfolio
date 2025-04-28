@@ -185,7 +185,7 @@ export default function Contact() {
 
   const socialLinks = [
     { icon: <Github className="w-5 h-5" />, href: "https://github.com/SDPgroup008" },
-    { icon: <Linkedin className="w-5 h-5" />, href: "#" },
+    { icon: <Linkedin className="w-5 h-5" />, href: "www.linkedin.com/in/ssenkungu-reinol-martin" },
     { icon: <Twitter className="w-5 h-5" />, href: "#" },
     { icon: <Instagram className="w-5 h-5" />, href: "#" }
   ];
